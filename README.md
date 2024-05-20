@@ -1,4 +1,4 @@
-# Chatting-App
+# Tingle A Chatting App
 📱 Welcome to My GitHub Repository! 🎉
 
 I'm excited to share that I've developed a chat application for Android mobile phones. This app simplifies communication by allowing users to chat with friends, colleagues, and family members, all in one place.
